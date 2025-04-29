@@ -3,6 +3,7 @@ description: "Курсы повышения квалификации для юр
 url: "https://demo.hrlegalschool.kz"
 baseurl: ""
 remote_theme: "cotes2020/jekyll-theme-chirpy"
+theme_mode:
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
